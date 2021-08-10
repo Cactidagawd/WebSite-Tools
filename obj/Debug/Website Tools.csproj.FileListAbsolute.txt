@@ -1,0 +1,10 @@
+C:\Users\Solo\source\repos\Website Tools\Website Tools\bin\Debug\Website Tools.exe.config
+C:\Users\Solo\source\repos\Website Tools\Website Tools\bin\Debug\Website Tools.exe
+C:\Users\Solo\source\repos\Website Tools\Website Tools\bin\Debug\Website Tools.pdb
+C:\Users\Solo\source\repos\Website Tools\Website Tools\obj\Debug\Website Tools.csprojAssemblyReference.cache
+C:\Users\Solo\source\repos\Website Tools\Website Tools\obj\Debug\Website_Tools.Main.resources
+C:\Users\Solo\source\repos\Website Tools\Website Tools\obj\Debug\Website_Tools.Properties.Resources.resources
+C:\Users\Solo\source\repos\Website Tools\Website Tools\obj\Debug\Website Tools.csproj.GenerateResource.cache
+C:\Users\Solo\source\repos\Website Tools\Website Tools\obj\Debug\Website Tools.csproj.CoreCompileInputs.cache
+C:\Users\Solo\source\repos\Website Tools\Website Tools\obj\Debug\Website Tools.exe
+C:\Users\Solo\source\repos\Website Tools\Website Tools\obj\Debug\Website Tools.pdb
